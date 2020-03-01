@@ -35,11 +35,6 @@ function scroll()
 	}
 }
 
-function easteregg()
-{
-	alert("Bravo t'es trop fort");
-}
-
 function click()
 {
 	document.getElementsByClassName("reduit").style.transform = "rotate(0deg) scale(1)";
